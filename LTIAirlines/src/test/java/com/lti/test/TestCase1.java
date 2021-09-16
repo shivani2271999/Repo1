@@ -28,7 +28,7 @@ public class TestCase1 {
 		Flight f1=new Flight(1001,"Mumbai","Delhi");
 		Flight f2=new Flight(1001,"Mumbai","Delhi");
 		//Flight f2=f1;
-		assertEquals("Objects are",f1, f2); //messages can be passed if error occurs
+		//assertEquals("Objects are",f1, f2); //messages can be passed if error occurs
 	}
 	
 	
