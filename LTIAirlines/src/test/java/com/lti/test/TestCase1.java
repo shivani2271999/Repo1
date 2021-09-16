@@ -23,13 +23,13 @@ public class TestCase1 {
 //		assertTrue(Main.compare(2,2));
 //	}
 	
-	@Test
-	public void testObjects() {
-		Flight f1=new Flight(1001,"Mumbai","Delhi");
-		Flight f2=new Flight(1001,"Mumbai","Delhi");
-		//Flight f2=f1;
-		//assertEquals("Objects are",f1, f2); //messages can be passed if error occurs
-	}
+//	@Test
+//	public void testObjects() {
+//		Flight f1=new Flight(1001,"Mumbai","Delhi");
+//		Flight f2=new Flight(1001,"Mumbai","Delhi");
+//		//Flight f2=f1;
+//		//assertEquals("Objects are",f1, f2); //messages can be passed if error occurs
+//	}
 	
 	
 	
